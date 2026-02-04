@@ -765,6 +765,38 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="PH TV",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="Ameritrade.us@SD" group-title="US VIZIO",Ameritrade (1080p) [Not 24/7]
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AWEEncore.us@SD" group-title="US VIZIO",AWE Encore (720p)
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD" group-title="US VIZIO",Black News Channel (720p)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us@SD" group-title="US VIZIO",bon appétit (720p)
+https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Circle.us@SD" group-title="US VIZIO",Circle (1080p)
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us@SD" group-title="US VIZIO",Fox Soul (1080p)
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="iFoodTV.us@SD" group-title="US VIZIO",iFood.TV (720p)
+https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" group-title="US VIZIO",Johnny Carson TV (720p)
+https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us@SD" group-title="US VIZIO",Mystery Science Theater 3000 (1080p)
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us@SD" group-title="US VIZIO",Newsmax 2 (1080p)
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" group-title="US VIZIO",OAN (1080p)
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD" group-title="US VIZIO",Pac 12 Insider (720p)
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD" group-title="US VIZIO",The Carol Burnett Show (1080p)
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XploreTV.us@SD" group-title="US VIZIO",Xplore (1080p)
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us@SD" group-title="US VIZIO",Yahoo! Finance (720p)
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD" group-title="US VIZIO",Young Hollywood (720p)
+https://younghollywood-vizio.amagi.tv/playlist.m3u8
 
 
 
